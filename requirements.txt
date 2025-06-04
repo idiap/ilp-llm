@@ -1,0 +1,12 @@
+openai
+tqdm
+scikit-learn
+torch
+transformers
+langchain_core
+pyswip @ git+https://github.com/yuce/pyswip@master#egg=pyswip
+git+https://github.com/logic-and-learning-lab/Popper@main
+python-sat
+janus-swi
+bitarray
+Pympler

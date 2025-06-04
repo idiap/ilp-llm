@@ -1,0 +1,13 @@
+pos(p7(c1,c39)).
+pos(p7(c53,c6)).
+pos(p7(c27,c0)).
+pos(p7(c3,c59)).
+pos(p7(c10,c10)).
+pos(p7(c48,c51)).
+pos(p7(c1,c63)).
+pos(p7(c40,c43)).
+pos(p7(c3,c63)).
+pos(p7(c31,c9)).
+neg(p7(c54,c29)).
+neg(p7(c54,c29)).
+neg(p7(c54,c29)).

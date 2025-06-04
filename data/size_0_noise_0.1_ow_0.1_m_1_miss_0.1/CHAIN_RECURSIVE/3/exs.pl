@@ -1,0 +1,15 @@
+pos(p0(c17,c50)).
+pos(p0(c56,c47)).
+pos(p0(c13,c55)).
+pos(p0(c59,c30)).
+pos(p0(c32,c37)).
+pos(p0(c17,c20)).
+pos(p0(c37,c50)).
+pos(p0(c41,c15)).
+pos(p0(c21,c16)).
+pos(p0(c4,c37)).
+pos(p0(c26,c5)).
+pos(p0(c31,c44)).
+neg(p0(c48,c41)).
+neg(p0(c48,c41)).
+neg(p0(c48,c41)).

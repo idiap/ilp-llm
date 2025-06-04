@@ -1,0 +1,11 @@
+pos(p2(c36,c22)).
+pos(p2(c32,c22)).
+pos(p2(c58,c35)).
+pos(p2(c66,c66)).
+pos(p2(c60,c37)).
+pos(p2(c28,c29)).
+pos(p2(c57,c20)).
+pos(p2(c10,c23)).
+pos(p2(c69,c53)).
+neg(p2(c55,c1)).
+neg(p2(c55,c1)).

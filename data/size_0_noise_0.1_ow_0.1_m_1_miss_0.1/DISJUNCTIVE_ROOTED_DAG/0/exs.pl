@@ -1,0 +1,11 @@
+pos(p10(c24,c63)).
+pos(p10(c64,c64)).
+pos(p10(c7,c37)).
+pos(p10(c17,c23)).
+pos(p10(c17,c42)).
+pos(p10(c64,c13)).
+pos(p10(c42,c44)).
+pos(p10(c17,c54)).
+neg(p10(c6,c0)).
+neg(p10(c6,c0)).
+neg(p10(c6,c0)).

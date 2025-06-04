@@ -1,0 +1,14 @@
+pos(p5(c47,c57)).
+pos(p5(c46,c13)).
+pos(p5(c12,c41)).
+pos(p5(c46,c37)).
+pos(p5(c21,c7)).
+pos(p5(c47,c13)).
+pos(p5(c46,c57)).
+pos(p5(c18,c30)).
+pos(p5(c1,c55)).
+neg(p5(c47,c37)).
+neg(p5(c55,c12)).
+neg(p5(c55,c12)).
+neg(p5(c47,c37)).
+neg(p5(c47,c37)).

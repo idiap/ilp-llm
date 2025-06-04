@@ -1,0 +1,4 @@
+{
+  "input": "BK:\n\n{bk}\n\nExamples:\n\n{exs}",
+  "next": "This theory scored:\nacc = {result} precision = {precision} recall = {recall} f1 = {f1}\n\nand got these examples wrongly:\n{wrong}\n\nAnswer only the theory."
+}

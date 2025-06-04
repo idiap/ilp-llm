@@ -1,0 +1,11 @@
+pos(p3(c5,c18)).
+pos(p3(c3,c35)).
+pos(p3(c41,c14)).
+pos(p3(c49,c42)).
+pos(p3(c26,c31)).
+pos(p3(c31,c31)).
+pos(p3(c37,c29)).
+pos(p3(c46,c31)).
+neg(p3(c45,c39)).
+neg(p3(c45,c39)).
+neg(p3(c45,c39)).

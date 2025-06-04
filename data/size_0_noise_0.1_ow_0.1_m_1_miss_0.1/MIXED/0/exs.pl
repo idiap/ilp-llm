@@ -1,0 +1,15 @@
+pos(p8(c27,c34)).
+pos(p8(c0,c62)).
+pos(p8(c27,c36)).
+pos(p8(c51,c48)).
+pos(p8(c1,c0)).
+pos(p8(c5,c34)).
+pos(p8(c27,c24)).
+pos(p8(c16,c2)).
+pos(p8(c29,c55)).
+pos(p8(c5,c36)).
+pos(p8(c5,c24)).
+pos(p8(c60,c4)).
+neg(p8(c39,c8)).
+neg(p8(c39,c8)).
+neg(p8(c39,c8)).

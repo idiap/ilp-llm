@@ -1,0 +1,9 @@
+pos(p9(c88,c58)).
+pos(p9(c72,c6)).
+pos(p9(c55,c37)).
+pos(p9(c97,c89)).
+pos(p9(c84,c72)).
+pos(p9(c36,c96)).
+neg(p9(c33,c69)).
+neg(p9(c33,c69)).
+neg(p9(c33,c69)).

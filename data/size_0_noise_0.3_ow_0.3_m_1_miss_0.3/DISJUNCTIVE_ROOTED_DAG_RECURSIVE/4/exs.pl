@@ -1,0 +1,12 @@
+pos(p4(c10,c0)).
+pos(p4(c16,c40)).
+pos(p4(c16,c21)).
+pos(p4(c16,c23)).
+pos(p4(c29,c18)).
+pos(p4(c16,c42)).
+pos(p4(c41,c1)).
+neg(p4(c50,c57)).
+neg(p4(c16,c7)).
+neg(p4(c50,c57)).
+neg(p4(c16,c7)).
+neg(p4(c16,c7)).

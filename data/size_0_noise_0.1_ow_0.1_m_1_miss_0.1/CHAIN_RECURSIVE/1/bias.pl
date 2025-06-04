@@ -1,0 +1,12 @@
+enable_recursion.
+max_clauses(10).
+max_vars(10).
+max_clauses(10).
+head_pred(p7,2).
+body_pred(p10,2).
+body_pred(p5,2).
+body_pred(p0,2).
+body_pred(p3,2).
+body_pred(p4,2).
+body_pred(p8,2).
+body_pred(p6,2).
